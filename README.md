@@ -41,8 +41,8 @@
     <a href="https://twitter.com/halimbahae" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/halimbahae" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://medium.com/@halimbahae" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-    <a href="https://huggingface.co/halimbahae" target="_blank"><img alt="Hugging Face" src="LINK_TO_HUGGING_FACE_BADGE_IMAGE" /></a>
-    <a href="https://www.kaggle.com/halimbahae" target="_blank"><img alt="Kaggle" src="LINK_TO_KAGGLE_BADGE_IMAGE" /></a>
+    <a href="https://huggingface.co/halimbahae" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue" /></a>
+    <a href="https://www.kaggle.com/halimbahae" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
     <a href="https://www.instagram.com/halimbahae" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a href="https://www.youtube.com/@halimbahae" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
