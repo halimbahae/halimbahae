@@ -7,14 +7,9 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-https://cdn-icons-png.flaticon.com/512/197/197551.png
+ 
 
-
-<p>Welcome to my page! </br> I'm Bahae Eddine, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" 
-                                                                         
-                                                                         
-                                                                         
-                                                                         width="13"/> <b> Morocco.
+<p>Welcome to my page! </br> I'm Bahae Eddine, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> <b> Morocco.
                                                                          
                                                                          
 <h3>Things I code with</h3>
