@@ -1,5 +1,4 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
-
+ 
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
