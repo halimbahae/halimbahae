@@ -2,8 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bahae+Eddine+Halim!;" />
 <p>Welcome to my page! </br> I'm Bahae Eddine, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> <b> Morocco.
-![Halim Bahae Eddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=halimbahae&show_icons=true&theme=radical)
-                                                                        
+                                                                         
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
