@@ -2,6 +2,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bahae+Eddine+Halim!;" />
 <p>Welcome to my page! </br> I'm Bahae Eddine, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> <b> Morocco.
+
+
+✨ 🧠 Founder of MoroccanDS 👨‍💻 Software Engineer 📊 Data Scientist 🔍 Consultant & Freelancer 🚀 Open to Tech & AI Projects
+[![wakatime](https://wakatime.com/badge/user/26c264d6-ee91-4344-8047-0b78e75cb0fb.svg)](https://wakatime.com/@26c264d6-ee91-4344-8047-0b78e75cb0fb)
                                                                          
 <h3>Things I code with</h3>
 <p>
